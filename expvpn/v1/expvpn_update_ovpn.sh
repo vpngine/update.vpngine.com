@@ -70,6 +70,5 @@ cp -f /tmp/vpn3/*.* /etc/openvpn/vpn3
 # remove uneeded downloaded files
 rm /tmp/*.ovpn
 rm /tmp/*.sh
-rm /tmp/*.setup
 rm /tmp/expvpn_location_list.txt
 rm -r /tmp/vpn*
